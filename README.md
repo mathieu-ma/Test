@@ -1,4 +1,4 @@
 test
 ====
 
-All project for testing
+All projects for testing
